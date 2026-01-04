@@ -27,7 +27,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-```
+```css
 * {
     margin: 0;
     padding: 0;
